@@ -1,0 +1,15 @@
+The Christian Imagination: Theology and The Origins of Race by Willie James Jennings. Jennings argues that Christianity has developed a "diseased social imagination" that created and sustained the concept of race. By discussing a variety of people and their experiences, both colonists and the colonized, Jennings shows how race was defined during European colonial expansion through Christianity. Often a hierarchy was imposed and Christianity was forced upon natives and black people who found themselves at the bottom of the social ladder, due to being "impure" or "dirty
+On branch main
+Your branch is up to date with 'origin/main'.
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   README.md
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	book.txt
+	properties.txt
+
+no changes added to commit (use "git add" and/or "git commit -a")
