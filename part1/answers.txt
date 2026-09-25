@@ -180,3 +180,21 @@ The only thing that seems weird is how .gitignore doesn't show up.
 
 Step 33.
 I see a list of commits from newest to oldest.
+
+Step 36.
+a) 14 in total, 2 from me.
+b) 26 Sep 24 20:10
+c) We can use git log with different arguments for specific dates.
+d) 6 times.
+e) None.
+f) git log shows a timeline of changes like commits, while git status shows what's currently being done like what branch you're on.
+g) Gives a short log of commits made, categorized by author.
+h) git log -- Main.java
+i) git log -p -follow --Main.java
+j) git log --grep=account
+k) git log --author=Name where Name is the name of the author.
+l) git log --author=Lauren --after=2014-01-05 --before=2024-01-14
+
+
+EC₃.
+Tells the user why a card was invalid in the report and card name.
